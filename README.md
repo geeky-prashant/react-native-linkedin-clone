@@ -3,9 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-linkedin-clone)
   ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-linkedin-clone?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-linkedin-clone?style=social)
- 
   <br />
-
   <h2 align="center">React Native LinkedIn Clone</h2>
 
 In this project, I have created a LinkedIn Clone, The project is built using React Native Expo CLI, React Native Navigation, and JavaScript.
